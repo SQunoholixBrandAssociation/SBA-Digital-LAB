@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/SQunoholixBrandAssociation/SBA-Digital-LAB/commit/6da70e95dec5ff60d1b83dca937ecdfbe069fe82" width="100%"/>
+  <img src="assets/SBA_Banner.png" alt="SBA Digital LAB Logo" width="100%"/>
 </p>
+
 
 # SBA-Digital-LAB
 
